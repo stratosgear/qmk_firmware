@@ -2,8 +2,6 @@
 #include "keymap.h"
 #include "customLogic.h"
 
-#define LEADER_TIMEOUT 800
-
 
 LEADER_EXTERNS();
 

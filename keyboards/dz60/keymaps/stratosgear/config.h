@@ -6,5 +6,8 @@
 #define RGBLIGHT_EFFECT_STATIC_GRADIENT
 // #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
 
+// Set leader key timeout to 0.8 secs
+#define LEADER_TIMEOUT 800
+
 // reset the leader key timeout after each key press
 #define LEADER_PER_KEY_TIMING
