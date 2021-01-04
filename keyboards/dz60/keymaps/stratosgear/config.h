@@ -5,3 +5,6 @@
 #undef RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_EFFECT_STATIC_GRADIENT
 // #define RGBLIGHT_EFFECT_RAINBOW_SWIRL
+
+// reset the leader key timeout after each key press
+#define LEADER_PER_KEY_TIMING
